@@ -1,0 +1,14 @@
+# Secrets: never upload these
+.env
+
+# Virtual environment (big, only needed on your computer)
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Your personal data and photos
+meal_tracker.db
+captured_food.jpg
+captured_image.jpg
