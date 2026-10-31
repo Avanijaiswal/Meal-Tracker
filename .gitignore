@@ -12,3 +12,5 @@ __pycache__/
 meal_tracker.db
 captured_food.jpg
 captured_image.jpg
+test_food.jpg
+*.jpg
