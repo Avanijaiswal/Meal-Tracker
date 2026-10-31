@@ -14,3 +14,5 @@ captured_food.jpg
 captured_image.jpg
 test_food.jpg
 *.jpg
+
+.streamlit/secrets.toml
