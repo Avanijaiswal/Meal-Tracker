@@ -1,9 +1,9 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch
-torchvision
-transformers
-pillow
-streamlit
-pandas
-requests
-python-dotenv
+torch==2.15.0
+torchvision==0.29.2
+transformers==5.22.1
+pillow==13.0.0
+streamlit==1.66.1
+pandas==3.1.0
+requests==2.34.2
+python-dotenv==1.2.4
